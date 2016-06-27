@@ -19,7 +19,8 @@
 [Lynda](http://www.lynda.com/search?q=ios) | Lynda 上面 iOS 和 Objective-C 的学习资料比较多, 从初级到高级的都有, 覆盖面比较广, 无论 iOS 走到哪个层次, 都可以在上面挑到适合自己的课程
 [Code School](https://www.codeschool.com/paths/ios) | CodeSchool 上面的 iOS 不多, 不过质量都不错, 一些课程也挺有趣的
 [Udemy](https://www.udemy.com/topic/learn-objective-c) | Udemy 帮助初学者规划了视频学习路线, 从新手到高级分的比较详细
-[Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷最新的 iOS8 和 Swift 课程, 现在 [GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift) 上面也有人在翻译
+[Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷的 iOS8 和 Swift 课程, 已经翻译完成 [GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
+[Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷最新的 iOS9 和 Swift 课程, 现在 [GitHub](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift) 正在翻译
 
 ## 视频教程(中文)
 
@@ -145,7 +146,8 @@
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
 [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Objective-C 的教程, 图文并茂, 适合新手阅读
 [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) | Ray Wenderlich 推出的 Objective-C 风格指南
-[iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) | 每日一个 iOS8 的小教程, 所以的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
+[iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) | 每日一个 iOS8 的小教程, 所有的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
+[iOS9 Day-by-Day](https://www.shinobicontrols.com/blog/ios9-day-by-day-index) | 每日一个 iOS9 的小教程, 所有的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS9-day-by-day) 上面的找到相关代码
 
 ## 邮件订阅
 
